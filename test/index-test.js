@@ -1,4 +1,4 @@
-describe('index', () => {
+/////////////////////////////////////////////////describe('index', () => {
   describe('post form', () => {
     it('exists and submits correctly', () => {
       var postForm = document.getElementById("post-form");
